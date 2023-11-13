@@ -94,13 +94,13 @@ body {
 
 }
 #benefit-1{
-    background-image: url(/severino/images/quadro2.png);
+    background-image: url(/images/quadro2.png);
 }
 #benefit-2{
-    background-image: url(/severino/images/parede2.png);
+    background-image: url(/images/parede2.png);
 }
 #benefit-3{
-    background-image: url(/severino/images/moveis1.jpg);
+    background-image: url(/images/moveis1.jpg);
 }
 .orcamento {
     display:flex;
